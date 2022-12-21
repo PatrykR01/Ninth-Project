@@ -20,6 +20,7 @@ NINTH-PROJECT:<br>
 7. I develop more my knowledge in more advanced JavaScript.<br>
 <br>
 SUMMARY -> NINTH-PROJECT <br>
+<br>
 This project showed me plenty of new things to implement in my daily routine in writing code.<br>
 I found out how to write more dry code, how are functions working in other situations.<br>
 I know what I have to learn to improve my skills. Very useful project that showed what I have to bring on next level. <br>
