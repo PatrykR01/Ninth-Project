@@ -18,6 +18,7 @@ NINTH-PROJECT:<br>
 <br>
 
 ![Zrzut ekranu (18)](https://user-images.githubusercontent.com/99299154/208776590-82010c19-0836-490e-938f-50afb2041099.png)
+
 <br>
 7. I develop more my knowledge in more advanced JavaScript.<br>
 <br>
